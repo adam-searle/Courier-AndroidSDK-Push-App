@@ -1,6 +1,6 @@
 # Android Push Notification App
 
-This is a simple Android application that demonstrates how to implement push notifications using the Courier API. The app allows you to send push notifications to devices using Firebase Cloud Messaging (FCM) as the push notification provider.
+This is a simple Android application that demonstrates how to implement push notifications using the Courier Android SDK. The app allows you to send push notifications to devices using Firebase Cloud Messaging (FCM) as the push notification provider.
 
 ## Requirements
 
