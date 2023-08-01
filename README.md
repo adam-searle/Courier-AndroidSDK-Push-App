@@ -9,8 +9,13 @@ This is a simple Android application that demonstrates how to implement push not
 
 ## Setup
 
+To get started with the Android Push Notification App, follow these steps:
+
 1. Clone this repository to your local machine.
 2. Open the project in Android Studio.
+3. Install the required packages by running the following command in the terminal: `./gradlew build`
+
+This will download and install all the necessary dependencies for the project (including the Courier Android SDK 2.0.2).
 
 ## Firebase Cloud Messaging (FCM) Setup
 
