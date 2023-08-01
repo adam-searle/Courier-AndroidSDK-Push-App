@@ -19,7 +19,7 @@ class MyApplication : Application() {
             Courier.shared.signIn(
                 accessToken = "YOUR_AUTH_KEY",
                 clientKey = "nil",
-                userId = "adam"
+                userId = "YOUR_COURIER_ID"
             )
         }
     }
