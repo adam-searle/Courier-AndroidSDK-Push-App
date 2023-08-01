@@ -17,7 +17,7 @@ class MyApplication : Application() {
         // Sign in to Courier.
         CoroutineScope(Dispatchers.Main).launch {
             Courier.shared.signIn(
-                accessToken = "pk_prod_N671XW6PREMS0EMX67XMTPWAYTQW",
+                accessToken = "YOUR_AUTH_KEY",
                 clientKey = "nil",
                 userId = "adam"
             )
