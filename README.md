@@ -23,9 +23,9 @@ Before you can send push notifications using this app, you need to set up Fireba
 
 1. Go to the [Firebase Console](https://console.firebase.google.com/).
 2. Create a new project and follow the instructions to set up FCM for Android. Make sure to follow the steps to implement the SDK into the project.
-3. Once you've set up FCM, go to the [Courier Dashboard](https://dashboard.courier.com/).
+3. Once you've set up FCM, go to the [Courier Dashboard](https://courier.com/).
 4. Create a new provider and select Firebase Cloud Messaging (FCM) as the provider type.
-5. Copy the FCM server key from your Firebase project settings and paste it in the provider configuration in the Courier Dashboard.
+5. Copy the FCM server key from your Firebase project settings and paste it into the provider configuration in the Courier Dashboard.
 
 ## Sending Push Notifications
 
